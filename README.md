@@ -4,3 +4,4 @@ Built an RISC-V 32-bit pipeline processor using the Logisim simulator that suppo
 ∗ Implemented components:RF32,Branch Unit,Forward Unit,Pipeline Register,ImmGen,ALU,Control Unit
 ∗ Passed all tests using raw binaries of sorting algorithms compiled from self-written RV32I assembly including
 the Forward problem to deal with
+<img width="530" height="338" alt="image" src="https://github.com/user-attachments/assets/1984f33e-ec94-4f56-9a28-2f0777b75131" />
